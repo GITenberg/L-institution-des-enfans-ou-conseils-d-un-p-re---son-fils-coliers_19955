@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8986
     wikipedia: http://fr.wikipedia.org/wiki/Nicolas-Louis_Fran%C3%A7ois_de_Neufch%C3%A2teau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19955#L-institution-des-enfans-ou-conseils-d-un-p-re---son-fils-coliers
 gutenberg_bookshelf: FR Education et Enseignement
 gutenberg_issued: '2006-11-28'
 gutenberg_type: Text
