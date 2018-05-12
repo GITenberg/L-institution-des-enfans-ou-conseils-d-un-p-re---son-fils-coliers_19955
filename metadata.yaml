@@ -1,0 +1,39 @@
+_repo: L-institution-des-enfans-ou-conseils-d-un-p-re---son-fils-coliers_19955
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: François de Neufchâteau, Nicolas Louis, comte
+    aliases:
+    - Francois de Neufchateau, Nicolas Louis, comte
+    - Neufchâteau, Nicolas Louis François de, comte
+    - Neufchateau, François de
+    birthdate: 1750
+    deathdate: 1828
+    gutenberg_agent_id: '8986'
+    url: http://www.gutenberg.org/2009/agents/8986
+    wikipedia: http://fr.wikipedia.org/wiki/Nicolas-Louis_Fran%C3%A7ois_de_Neufch%C3%A2teau
+description: ''
+gutenberg_bookshelf: FR Education et Enseignement
+gutenberg_issued: '2006-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19955'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Poetry'
+- !lcc 'DC'
+title: 'L''institution des enfans, ou conseils d''un père à son fils
+
+  Imités des vers que Muret a écrits en latin, pour l''usage
+
+  de son neveu, et qui peuvent servir à tous les jeunes
+
+  écoliers'
+url: http://www.gutenberg.org/ebooks/19955
